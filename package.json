@@ -1,0 +1,23 @@
+{
+  "name": "dynamicbuffer",
+  "version": "0.1.0",
+  "description": "A dynamic drop-in replacement for Node.js Buffer API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sampathsris/dynamicbuffer.git"
+  },
+  "keywords": [
+    "buffer",
+    "dynamic"
+  ],
+  "author": "Sampath Sitinamaluwa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sampathsris/dynamicbuffer/issues"
+  },
+  "homepage": "https://github.com/sampathsris/dynamicbuffer#readme"
+}
